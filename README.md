@@ -8,6 +8,7 @@ https://wadood342.github.io/Portfolio-Project-1
 This repository contains the JavaScript script and HTML pages for a website. Each HTML page serves a specific purpose in presenting information or functionality related to the website. The JavaScript script enhances the user experience by incorporating various features. Below is an overview of each HTML page and the shared JavaScript script.
 
 **HTML Pages**
+
 **1. index.html**
 The main landing page of the website. Provides an introduction and navigation to other sections.
 
